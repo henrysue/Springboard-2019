@@ -10,7 +10,7 @@ Projects<br/>
 2. Springboard Capstone 2: Tweet Sentiment Analysis Using Pretrained BERT Model<br/>
 <br/>
 <b>Mini Projects</b><br/>
-1. JSON Mini Project - World Dataset.ipnyb<br/>
+1. JSON Mini Project - World Dataset<br/>
    This is a Jupyter Notebook of the JSON Mini Project, where we analyzed and fixed a json file.<br/><br/>
 2. API Mini Project<br/>
    Using the python 'requests' library to request data from an API in the form of a JSON<br/><br/>
