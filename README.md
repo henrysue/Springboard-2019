@@ -7,7 +7,7 @@ Projects<br/>
 1. Springboard Capstone 1: Classifying Online Shopper Intention<br/>
    - Springboard Capstone 1 Project Proposal.pdf<br/>
     This is the proposal for Capstone #1.<br/>
-2. Springboard Capstone 2: Tweet Sentiment Analysis Using pretrained BERT model<br/>
+2. Springboard Capstone 2: Tweet Sentiment Analysis Using Pretrained BERT Model<br/>
 <br/>
 Mini Projects<br/>
 1. JSON Mini Project - World Dataset.ipnyb<br/>
